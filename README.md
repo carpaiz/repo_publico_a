@@ -1,1 +1,1 @@
-# repo_publico_a
+# este es un proyecto colaborativo en github favor dar sus aportes en clase creando una clase con sumobre ejemplo class JosePerez
